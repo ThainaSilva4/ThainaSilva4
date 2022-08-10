@@ -11,8 +11,3 @@
 </div>
 
 
-- 💭 Cursando Desenvolvimento de Sistemas
-- 💭 Segundo ano do ensino médio
-
-
-
