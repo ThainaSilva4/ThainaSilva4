@@ -8,6 +8,6 @@
 </div>
 
 
-<div>
+<div align="center">
 <img align="center" height="30" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
