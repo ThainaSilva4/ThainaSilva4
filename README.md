@@ -1,4 +1,4 @@
-Hello World!
+<h2>Hello World!</h2>
 
 - 💭 Estudante de Desenvolvimento de Sistemas
 - 💭 Cursando o segundo ano do ensino médio
