@@ -7,6 +7,6 @@
 
 
 <div align="center">
-<img src="![lelouch-anime](https://user-images.githubusercontent.com/99843232/183810125-d9a94a9e-a06b-4724-b001-239707610cc6.gif)" width="0px"/>
+<img src="![lelouch-anime](https://user-images.githubusercontent.com/99843232/183810125-d9a94a9e-a06b-4724-b001-239707610cc6.gif)" width="100px"/>
 </div>
 
