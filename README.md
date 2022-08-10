@@ -7,6 +7,6 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/99843232/183810125-d9a94a9e-a06b-4724-b001-239707610cc6.gif" height="100px" width="100px"/>
+<img src="https://user-images.githubusercontent.com/99843232/183810125-d9a94a9e-a06b-4724-b001-239707610cc6.gif"  width="1000px"/>
 </div>
 
