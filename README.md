@@ -8,7 +8,3 @@
 </div>
 
 
-<div align="center" display: "inline_block">
-<br>
-<img height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</div>
